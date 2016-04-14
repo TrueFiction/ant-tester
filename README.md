@@ -3,7 +3,7 @@
 # Java + Junit + Ant Template Project
 ----------
 A Java template project pre configured with Junit and Ant.
-It comes integrated with Travis CI, so continuous integration comes out of the box
+It comes integrated with Travis CI, so continuous integration comes out of the box.
 
 ## Quick Start
 - Clone or download this repo
